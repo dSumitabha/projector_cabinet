@@ -740,7 +740,7 @@
                                                             <a style="font-weight:600;color:blue;font-size:15px; cursor:pointer;"
                                                                class="view-images" data-id="{{ $productAssociate->id }}">
                                                                 <img src="{{ asset('uploads/simulation_images/' . $images->first()->image_name) }}"
-                                                                     style="width: 50px; height: 50px; border:1px solid #ddd;"
+                                                                     style="width: 11rem; height: 6rem; border:1px solid #ddd;"
                                                                      alt="Thumbnail">
                                                              
                                                                 @if ($images->count() > 1)
