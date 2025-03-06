@@ -4,37 +4,37 @@
 @section('content')
 
 <style>
-/* Style the select box */
-select {
-    appearance: none; /* Remove default arrow */
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    background-color: #fff;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding-right: 30px; /* Space for the dropdown arrow */
-    cursor: pointer;
-    position: relative;
-    background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='18' height='18' fill='%23777777'%3E%3Cpath d='M7 10l5 5 5-5H7z'/%3E%3C/svg%3E");
-    background-repeat: no-repeat;
-    background-position: right 10px center;
-    background-size: 18px;
-}
-
-/* Hover and Focus Effect */
-select:hover,
-select:focus {
-    border-color: #007bff;
-    outline: none;
-}
-
-/* Ensure it works for all screen sizes */
-@media (max-width: 768px) {
+    /* Style the select box */
     select {
-        font-size: 14px;
-        background-size: 14px;
+        appearance: none; /* Remove default arrow */
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding-right: 30px; /* Space for the dropdown arrow */
+        cursor: pointer;
+        position: relative;
+        background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='18' height='18' fill='%23777777'%3E%3Cpath d='M7 10l5 5 5-5H7z'/%3E%3C/svg%3E");
+        background-repeat: no-repeat;
+        background-position: right 10px center;
+        background-size: 18px;
     }
-}
+
+    /* Hover and Focus Effect */
+    select:hover,
+    select:focus {
+        border-color: #007bff;
+        outline: none;
+    }
+
+    /* Ensure it works for all screen sizes */
+    @media (max-width: 768px) {
+        select {
+            font-size: 14px;
+            background-size: 14px;
+        }
+    }
 
 </style>
 
@@ -46,7 +46,7 @@ select:focus {
         <h1 class="text-center mb-4" style="color: #003366; font-weight: bold;">Free Quote</h1>
 
         <div class="row custom-section shadow-lg p-4 rounded bg-white">
-            <div class="col-12 p-4">
+            <div class="col-md-6 p-4">
                 <div id="contact-us-form">
                     <h4 class="fw-bold my-4" style="color: #003366;">Existing Model Check</h4>
                     <p class="pb-3 mb-4 border-bottom" style="color: #666;">This form will help us check if there are pre-existing models matching your requirement. This can at times lower the price if the model is existing.</p>
