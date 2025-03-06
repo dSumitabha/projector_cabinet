@@ -104,10 +104,62 @@
          </div>
      </div>
      <!-- Main Slider End -->
+    <section class="container py-5 ">
+        <div class="section-title text-center mb-5">
+            <h2 class="ec-bg-title" style="display: block;">UST Cabinets</h2>
+            <h2 class="ec-title" style="font-size:2.5rem;">Our Product Range</h2>
+        </div>
 
-     <!-- Product tab Area Start -->
-        <x-collection />
-     <!-- ec Product tab Area End -->
+        <div class="row" style="">
+
+            <div class="row col-lg-10 align-items-center mb-4">
+                <div class="col-md-2 text-end pe-4" style="border-right: 1px solid #000;">
+                    <h1 class="fw-bold display-3" style="color: gray;">01</h1>
+                    <p class="fw-bold" style=" color : darkblue;">UST Projector Cabinets</p>
+                </div>
+                <div class="col-md-10">
+                    
+                    <p class="mb-0 " style="font-size: 1.25rem; ">
+                        Our specially designed cabinets provide the ideal housing for your UST projector, 
+                        ensuring optimal performance and seamless integration into your living space.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-2"></div>
+
+            <div class="col-lg-2"></div>
+            <div class="row col-lg-10 align-items-center mb-4">
+                <div class="col-md-2 text-end pe-4" style="border-right: 1px solid #000;">
+                    <h1 class="fw-bold display-3" style="color: gray;">02</h1>
+                    <p class="fw-bold" style="color : darkblue;">UST Projector & Center Channel Cabinets</p>
+                </div>
+                <div class="col-md-10">
+                    <p class="mb-0" style="font-size: 1.25rem; ">
+                        Experience immersive audio-visual entertainment with our cabinets that accommodate 
+                        both your UST projector and center channel speaker for a fixed screen setup.
+                    </p>
+                </div>
+            </div>
+                
+
+            
+            <div class="row col-lg-10 align-items-center">
+                <div class="col-md-2 text-end pe-4" style="border-right: 1px solid #000;">
+                    <h1 class="fw-bold display-3" style="color: gray;">03</h1>
+                    <p class="fw-bold" style="color : darkblue;">Integrated UST Projector Solutions</p>
+                </div>
+                <div class="col-md-10">
+                    <p class="mb-0" style="font-size: 1.25rem; ">
+                        For the ultimate home theater setup, explore our integrated cabinets that house your 
+                        UST projector, center channel, and a floor-rising screen - all in one sleek unit.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-2"></div>
+        </div>
+    </section>
+
+
     <!-- Description Section Start -->
         <x-description />
     <!-- Description Section End -->
