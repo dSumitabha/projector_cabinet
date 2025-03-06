@@ -269,7 +269,9 @@
                     <div class="ec-main-menu">
 
                         <ul>
-
+                            <li class="dropdown">
+                                <a href="{{ route('home') }}">Home</a>
+                            </li>
 
                             <li class="dropdown">
                                 <a href="{{ route('all_products') }}">All Products</a>
@@ -314,7 +316,7 @@
             <div class="ec-menu-content">
                 <ul>
 
-                    <li><a href="#">Catalog</a>
+                    <li><a href="{{ route('home') }}">Home</a>
                     <li>
                         <a href="{{ route('all_products') }}">All Products</a>
                     </li>

@@ -175,14 +175,14 @@
     <!--  Top Vendor Section Start -->
 
     <!--  Top Vendor Section End -->
-    <!--  offer Section Start -->
-
-    <!-- offer Section End -->
+      
     <!--  services Section Start -->
         <x-services />
     <!--services Section End -->
 
-
+    <!--  offer Section Start -->
+        <x-offer_section />
+    <!-- offer Section End -->
 
     <!-- New Product Start -->
 

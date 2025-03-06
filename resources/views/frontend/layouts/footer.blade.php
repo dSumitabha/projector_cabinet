@@ -6,7 +6,7 @@
 </style>
 
 
-<footer class="ec-footer section-space-mt">
+<footer class="ec-footer ">
     <div class="footer-container">
         <div class="footer-offer">
             <div class="container">
