@@ -1,48 +1,30 @@
 <section class="section ec-services-section section-space-p" id="services">
-    <h2 class="d-none">Services</h2>
+    <div class="section-title text-center mb-5">
+        <h2 class="ec-bg-title" style="display: block;">UST Cabinets</h2>
+        <h2 class="ec-title " style="font-size: 2rem;">Featured Products</h2>
+    </div>
+    
     <div class="container">
         <div class="row">
-            <div class="ec_ser_content ec_ser_content_1 col-sm-12 col-md-6 col-lg-3" data-animation="zoomIn">
+            <div class="ec_ser_content ec_ser_content_1 col-sm-12 col-md-6" data-animation="zoomIn">
                 <div class="ec_ser_inner">
                     <div class="ec-service-image">
-                        <img src="{{ url('/') }}/frontend/assets/images/icons/service_1.svg" class="svg_img" alt="" />
+                        <img src="{{ url('/') }}/frontend/assets/images/icons/projector_screen_icon.png" class="svg_img" alt="projector icon" style="width: 4rem;"/>
                     </div>
                     <div class="ec-service-desc">
-                        <h2>Free Shipping</h2>
-                        <p>ON ALL ORDERS</p>
+                        <h2>Mayu Series</h2>
+                        <p>Our flagship UST projector high profile cabinet perfect for 120" screens in 8-foot ceiling rooms.</p>
                     </div>
                 </div>
             </div>
-            <div class="ec_ser_content ec_ser_content_2 col-sm-12 col-md-6 col-lg-3" data-animation="zoomIn">
+            <div class="ec_ser_content ec_ser_content_2 col-sm-12 col-md-6" data-animation="zoomIn">
                 <div class="ec_ser_inner">
                     <div class="ec-service-image">
-                        <img src="{{ url('/') }}/frontend/assets/images/icons/service_2.svg" class="svg_img" alt="" />
+                        <img src="{{ url('/') }}/frontend/assets/images/icons/projector_screen_icon.png" class="svg_img" alt="projector icon" style="width: 4rem;"/>
                     </div>
                     <div class="ec-service-desc">
-                        <h2>Customer Service</h2>
-                        <p>TOP SUPPORT TEAM</p>
-                    </div>
-                </div>
-            </div>
-            <div class="ec_ser_content ec_ser_content_3 col-sm-12 col-md-6 col-lg-3" data-animation="zoomIn">
-                <div class="ec_ser_inner">
-                    <div class="ec-service-image">
-                        <img src="{{ url('/') }}/frontend/assets/images/icons/globe.svg" class="svg_img" alt="" />
-                    </div>
-                    <div class="ec-service-desc">
-                        <h2>Huge Collection</h2>
-                        <p>LARGEST ONLINE CATALOG</p>
-                    </div>
-                </div>
-            </div>
-            <div class="ec_ser_content ec_ser_content_4 col-sm-12 col-md-6 col-lg-3" data-animation="zoomIn">
-                <div class="ec_ser_inner">
-                    <div class="ec-service-image">
-                        <img src="{{ url('/') }}/frontend/assets/images/icons/service_4.svg" class="svg_img" alt="" />
-                    </div>
-                    <div class="ec-service-desc">
-                        <h2>Payment Secure</h2>
-                        <p>24x7 Services</p>
+                        <h2>Sundaram Series</h2>
+                        <p>This UST projector low profile cabinet perfect for 150" screens in 8-foot ceiling rooms and above.</p>
                     </div>
                 </div>
             </div>

@@ -110,7 +110,7 @@
             <h2 class="ec-title" style="font-size:2.5rem;">Our Product Range</h2>
         </div>
 
-        <div class="row" style="">
+        <div class="row" >
 
             <div class="row col-lg-10 align-items-center mb-4">
                 <div class="col-md-2 text-end pe-4" style="border-right: 1px solid #000;">
@@ -141,8 +141,6 @@
                 </div>
             </div>
                 
-
-            
             <div class="row col-lg-10 align-items-center">
                 <div class="col-md-2 text-end pe-4" style="border-right: 1px solid #000;">
                     <h1 class="fw-bold display-3" style="color: gray;">03</h1>
@@ -168,7 +166,7 @@
     <!-- ec Banner Section End -->
 
     <!--  Category Section Start -->
-        <x-buying_guides />
+
     <!-- Category Section End -->
 
     <!--  Feature & Special Section Start -->
@@ -178,7 +176,7 @@
 
     <!--  Top Vendor Section End -->
     <!--  offer Section Start -->
-        <x-offer_section />
+
     <!-- offer Section End -->
     <!--  services Section Start -->
         <x-services />
