@@ -13,7 +13,7 @@
                  <div class="row">
                      <div class="col-md-6 ec-cms-block ec-abcms-block text-center">
                          <div class="ec-cms-block-inner">
-                            <img class="a-img" src="{{ url('/') }}/frontend/assets/images/offer-image/one.webp" alt="about">
+                            <img class="a-img" src="{{ url('/') }}/frontend/assets/images/offer-image/pc_01.jpg" alt="about">
                          </div>
                      </div>
                      <div class="col-md-6 ec-cms-block ec-abcms-block text-center">
