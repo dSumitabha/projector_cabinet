@@ -91,35 +91,16 @@
                          <div class="row">
                              <div class="col-xl-6 col-lg-7 col-md-7 col-sm-7 align-self-center">
                                  <div class="ec-slide-content slider-animation">
-                                     <h1 class="ec-slide-title">UST Projector Cabinets</h1>
-                                     <h2 class="ec-slide-stitle">Sale Offer</h2>
-                                     <p>Cabinet for Ultra Short throw Projector with Center Channel</p>
-                                     <a href="#" class="btn btn-lg btn-secondary">Request Quote</a>
+                                    <p style="margin-bottom: 0.25rem;">Welcome to</p>
+                                    <h1 class="ec-slide-title">UST Cabinets.com</h1>
+                                    <p style="max-width: 30rem;">Your Ultimate Destination for Ultra Short Throw Projector Solutions At USTCabinets.com, we specialize in designing, manufacturing, and selling premium cabinets tailored for ultra short throw (UST) projectors. Our innovative solutions cater to all your home theater needs, offering a perfect blend of functionality, style, and cutting-edge technology.</p>
+                                    <a href="{{ route('all_products') }}" class="btn btn-lg btn-secondary">All Products</a>
                                  </div>
                              </div>
                          </div>
                      </div>
                  </div>
-                 <div class="ec-slide-item swiper-slide d-flex ec-slide-2">
-                     <div class="container align-self-center">
-                         <div class="row">
-                             <div class="col-xl-6 col-lg-7 col-md-7 col-sm-7 align-self-center">
-                                 <div class="ec-slide-content slider-animation">
-                                     <h1 class="ec-slide-title">MY STORE</h1>
-                                     <h2 class="ec-slide-stitle">Sale Offer</h2>
-                                     <p>Cabinet for Ultra Short throw Projector with Center Channel</p>
-                                     <a href="#" class="btn btn-lg btn-secondary">Request Quote</a>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-             <div class="swiper-pagination swiper-pagination-white"></div>
-             <div class="swiper-buttons">
-                 <div class="swiper-button-next"></div>
-                 <div class="swiper-button-prev"></div>
-             </div>
+             </div>             
          </div>
      </div>
      <!-- Main Slider End -->
